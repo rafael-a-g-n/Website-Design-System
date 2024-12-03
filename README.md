@@ -45,6 +45,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Rafael A. G. N. - [@rafael-a-g-n](https://github.com/rafael-a-g-n)
 
+LinkedIN - [Rafael Nogueira](https://www.linkedin.com/in/ragn/)
+
 Project Link: [https://github.com/rafael-a-g-n/Website-Design-System](https://github.com/rafael-a-g-n/Website-Design-System)
 
 ---
